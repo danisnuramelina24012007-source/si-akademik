@@ -1,0 +1,9 @@
+2026-10-01 22:20:44 - NIM sudah terdaftar.
+2026-10-01 22:23:21 - NIM sudah terdaftar.
+2026-10-01 22:23:39 - NIM sudah terdaftar.
+[2026-10-01 22:27:09] SQLSTATE[HY000] [1049] Unknown database 'database_tidak_ada'
+[2026-10-01 22:28:23] App\Repositories\MahasiswaRepository::__construct(): Argument #1 ($database) must be of type App\Models\Database, PDO given, called in C:\xampp\htdocs\si-akademik\acara-14\public\index.php on line 28
+[2026-10-01 22:28:25] App\Repositories\MahasiswaRepository::__construct(): Argument #1 ($database) must be of type App\Models\Database, PDO given, called in C:\xampp\htdocs\si-akademik\acara-14\public\index.php on line 28
+[2026-10-01 22:28:41] App\Repositories\MahasiswaRepository::__construct(): Argument #1 ($database) must be of type App\Models\Database, PDO given, called in C:\xampp\htdocs\si-akademik\acara-14\public\index.php on line 28
+2026-10-01 22:33:07 - NIM sudah terdaftar.
+[2026-10-01 22:35:02] SQLSTATE[HY000] [1049] Unknown database 'database_tidak_ada'
